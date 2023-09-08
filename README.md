@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thomasp-lcwc
+- 👋 Hi, I’m THOMAS p
 - 👀 I’m interested in samurai frogs
 - 🌱 I’m currently learning T level IT
 - 💞️ I’m looking to collaborate on samurai frog
