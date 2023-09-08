@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasp-lcwc
 - 👀 I’m interested in samurai frogs
 - 🌱 I’m currently learning T level IT
-- 💞️ I’m looking to collaborate on samurai fron
+- 💞️ I’m looking to collaborate on samurai frog
 - 📫 How to reach me carrior pidgeon 
 
 <!---
